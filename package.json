@@ -1,0 +1,25 @@
+{
+  "name": "ws_app",
+  "version": "1.0.0",
+  "description": "learning the ws fundamentals through this app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varunrajvanshi96/ws-app.git"
+  },
+  "author": "varun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/varunrajvanshi96/ws-app/issues"
+  },
+  "homepage": "https://github.com/varunrajvanshi96/ws-app#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
